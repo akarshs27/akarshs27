@@ -10,38 +10,31 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Akarsh Srivastava
+current_job: Senior Frontend Engineer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Bachelor's in Computer Science",
   ]
-company: Soulber
+company: PocketFM
 
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
     "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Animations",
   ]
 technical_background:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Senior Engineer 2 - PocketFM"  
+    "Software Engineer 2 - Fashinza",
+    "Software Engineer - DLT LABS",
+    "Trainee - DLT LABS",
   ]
   
 currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Gaming", "Cinema", "Anime", "Travelling"]
 ```
   
 ---  
