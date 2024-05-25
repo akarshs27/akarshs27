@@ -11,7 +11,7 @@
 
 ```yaml
 name: Akarsh Srivastava
-current_job: Senior Frontend Engineer
+current_job: Senior Engineer 2
 education:
   [
     "Self-Taught Developer and Designer",
@@ -33,7 +33,6 @@ technical_background:
     "Trainee - DLT LABS",
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
 hobbies: ["Gaming", "Cinema", "Anime", "Travelling"]
 ```
   
