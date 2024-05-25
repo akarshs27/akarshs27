@@ -1,4 +1,4 @@
-## Hi, I'm Akarsh
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <div align="center">
 
@@ -13,13 +13,12 @@ current_job: Software Engineer 2
 education: ["Self-Taught Developer and Designer", "Bachelor's in Computer Science"]
 company: PocketFM
 fields_of_interests: ["Web Development", "UI/UX", "Animations"]
-technical_background: ["SDE2 - PocketFM" "SDE2- Fashinza" <- "SDE - DLT LABS"]
+technical_background: ["SDE2 - PocketFM" <- "SDE2 - Fashinza" <- "SDE - DLT LABS"]
 currently_learning: ["Next js", "Design system"]
 hobbies: ["Gaming", "Cinema", "Anime", "Travelling"]
 ```
   
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshs27&layout=compact&hide_title=1&card_width=300&theme=dracula" alt="Top language used in my repos" />
-<br />
-<small>Languages used in my public repos - big fan of JavaScript 😛</small>
+<small>Big fan of JavaScript 😛</small>
 <br />
 
