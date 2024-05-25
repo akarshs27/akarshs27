@@ -19,7 +19,8 @@ hobbies: ["Gaming", "Cinema", "Anime", "Travelling"]
 <small>Big fan of JavaScript 😛</small>
 <br />
 
-<h3>Things I code & design with</h3>
+<h2>Things I code & design with</h2>
+
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
