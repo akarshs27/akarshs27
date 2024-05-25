@@ -11,7 +11,7 @@
 
 ```yaml
 name: Akarsh Srivastava
-current_job: Senior Frontend Engineer
+current_job: Software Engineer 2
 education: ["Self-Taught Developer and Designer", "Bachelor's in Computer Science"]
 company: PocketFM
 fields_of_interests: ["Web Development", "UI/UX", "Animations"]
