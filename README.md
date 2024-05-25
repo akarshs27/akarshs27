@@ -5,8 +5,6 @@
 [![Hello World, I'm Akarsh!](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/akarshs27)
 </div>
 
----
-
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
@@ -20,10 +18,8 @@ currently_learning: ["Next js", "Design system"]
 hobbies: ["Gaming", "Cinema", "Anime", "Travelling"]
 ```
   
----  
-
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshs27&layout=compact&hide_title=1&card_width=300&theme=dark" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
-  <br />
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshs27&layout=compact&hide_title=1&card_width=300&theme=dracula" alt="Top language used in my repos" />
+<br />
+<small>Languages used in my public repos - big fan of JavaScript 😛</small>
+<br />
 
