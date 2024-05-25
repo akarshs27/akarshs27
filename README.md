@@ -14,8 +14,8 @@ name: Akarsh Srivastava
 current_job: Senior Frontend Engineer
 education: ["Self-Taught Developer and Designer", "Bachelor's in Computer Science"]
 company: PocketFM
-fields_of_interests:["Web Development", "UI/UX", "Animations"]
-technical_background:["SDE2 - PocketFM" "SDE2- Fashinza" <- "SDE - DLT LABS"]
+fields_of_interests: ["Web Development", "UI/UX", "Animations"]
+technical_background: ["SDE2 - PocketFM" "SDE2- Fashinza" <- "SDE - DLT LABS"]
 currently_learning: ["Next js", "Design system"]
 hobbies: ["Gaming", "Cinema", "Anime", "Travelling"]
 ```
