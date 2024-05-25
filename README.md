@@ -22,10 +22,8 @@ hobbies: ["Gaming", "Cinema", "Anime", "Travelling"]
   
 ---  
 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshs27&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshs27&layout=compact&hide_title=1&card_width=300&theme=dark" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos - big fan of JavaScript 😛</small>
   <br />
-  <br />
-</div>
+
